@@ -1,0 +1,19 @@
+.globalClass {
+    background-color: rgb(255, 194, 194);
+    font-size: 24px;
+}
+
+#number3 {
+    font-size:36px;
+}
+
+#number2 {
+    color:blue;
+    font-weight:500;
+    font-size:48px;
+}
+
+#number4 {
+    font-weight:900;
+    font-size:36px;
+}
